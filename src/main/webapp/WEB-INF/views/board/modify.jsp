@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>ROOT MAIN</title>
+<title>BOARD MODIFY</title>
 <style type="text/css">
 </style>
 </script>
@@ -12,7 +12,7 @@
 </head>
 <body>
     <div>
-        <a href="/board/list">BOARD LIST<a>
+        여기는 보드 수정이야
     </div>
 </body>
 </html>
